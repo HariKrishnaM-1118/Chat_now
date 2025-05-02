@@ -4,7 +4,10 @@ A simple real-time chat application built with React.js (frontend) and Node.js +
 Inspired by WhatsApp — supports instant messaging between users in real-time.
 
 📸 Demo
-![image](https://github.com/user-attachments/assets/ec52648b-8234-4293-98e3-0bcf44f39971)
+![image](https://github.com/user-attachments/assets/db5522b0-e627-4395-a5f9-4e05006da857)
+![image](https://github.com/user-attachments/assets/7ec683ef-6512-40b3-86aa-eb69b52aa30b)
+![image](https://github.com/user-attachments/assets/8ffd7e79-4c52-486a-91a9-840281240729)
+
 
 
 
