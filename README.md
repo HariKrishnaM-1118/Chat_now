@@ -57,24 +57,35 @@ Clone the repository:
 bash
 Copy
 Edit
+
 git clone https://github.com/your-username/chatnow.git
+
 cd chatnow
+
 Start the backend server:
 
 bash
 Copy
 Edit
+
 cd backend
+
 npm install
+
 node server.js
+
 Start the frontend React app:
 
 bash
 Copy
 Edit
+
 cd frontend
+
 npm install
+
 npm start
+
 Open two browser tabs or windows and start chatting!
 
 📚 Future Improvements
